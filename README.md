@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DongheonHan
-- I'm a mechanical engineer
+- 🚀 I'm a mechanical engineer
 - 🏡 website: https://dongheonhan.github.io/website/
 - 📫 How to reach me don.dongheon.han@gmail.com
 
